@@ -1,8 +1,8 @@
-import Navbar from "../components/organism/Navbar";
+import Layout from "../components/Layout";
 export default function Home() {
   return (
     <>
-      <Navbar />
+      <Layout>Loremipsum 02</Layout>
     </>
   );
 }
